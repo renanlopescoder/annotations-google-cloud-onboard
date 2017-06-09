@@ -1,3 +1,5 @@
+[![Google Cloud](https://s3.amazonaws.com/accredible-api-templates/acms-editor/1458139257981)](https://cloud.google.com/?hl=pt-br)
+
 # Google Cloud Onboard
 
 Google Cloud Onboard Training Annotations
@@ -27,11 +29,12 @@ Anotações do Treinamento Google Cloud Onboard
 
 - Pagamento baseado em requisições (API REST)
 - Pagamento em décimo de centavos por requisição
+- Funções leves e rápidas como autenticação
 
 # App Engine PaaS (Platform as a Service)
 
-- PaaS similar ao Heroku SaaS (Suporta NodeJS)
-- Serviço escalavel
+- PaaS similar ao Heroku (Suporta NodeJS)
+- Serviço escalável
 - Pagar pelo recurso alocado ou por uso apenas
 - Standard e Flexível
 - Processamento > App Engine
@@ -97,16 +100,16 @@ Anotações do Treinamento Google Cloud Onboard
 
 # Machine Learning (IA)
 
-- AI First (Foco na Inteligˆncia artificial)
+- AI First (Foco na Inteligência artificial)
 - Tendência de Investimento
-- Chaves para Sucesso Machine Learning (Grande Conjunto de Dados, Bom Modelo de ML, Muito Poder Computacional)
+- Chaves para Sucesso do Machine Learning (Grande conjunto de dados, bom modelo de ML, muito poder computacional)
 
-## Tensor Flow (Código Aeberto) [Procurar GitHub]
+## Tensor Flow (Código Aberto)
 
 - Machine Learning
 - Versão para Mobile (Light)
 - Usar modelos do Google com APIs prontas do Google
-- Video Inteligence API (Identificação de dados no vídeo)
+- Video Intelligence API (Identificação de dados por vídeo)
 - Oferece base para treinar os modelos (Tensor Flow)
 
 ## Chip TPUs Google
@@ -116,13 +119,13 @@ Anotações do Treinamento Google Cloud Onboard
 - Otimizado para o Tensor Flow
 - Lançado no Google IO Em SA
 
-### Tecnologia
+### Tecnologia Google
 
 - Rede
 - Segurança
-- Modelo de Negócio em Preços 
-- Descontos de Forma automática de acordo ao uso
-- Novas Tecnologias
+- Modelo de negócio em preços 
+- Descontos de forma automática de acordo ao uso
+- Novas Tecnologias e atualizações
 
 # Módulo 1 
 
@@ -136,9 +139,9 @@ Anotações do Treinamento Google Cloud Onboard
 ### Projetos
 
 - Elemento importante (Criar Projetos no Google Cloud)
-- Projeto (Área da Empresa, Produto da Empresa, Aplicação)
+- Projeto (Por área da empresa, por produto ou por Aplicação)
 - Calculo de Valor por Área (Dados Simples)
-- Basico do Projeto (Nome, Número, ID)
+- Básico do Projeto (Nome, Número, ID)
 
 
 ## Segurança
@@ -222,5 +225,3 @@ Research at Google
 - Docker
 - Facil migração para atualização do Kubernetes
 - Qualquer linguagem
-
-
